@@ -57,7 +57,7 @@ Especifica la licencia bajo la cual se distribuye el proyecto. Esto es important
 Proporciona información de contacto, como un correo electrónico o un enlace a tu perfil de GitHub, para que las personas puedan ponerse en contacto contigo en caso de preguntas o problemas.
 
 <div align="center">
-  <img src="../Images/Imagen2.png" width="1920" height="400" />
+  <img src="/Images/Imagen2.png" width="1920" height="400" />
 </div>
 
 
