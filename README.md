@@ -9,14 +9,10 @@ Además de la atención clínica, el proyecto se enfoca en la promoción de la s
 ## Tabla de Contenidos
 
 1. [Introducción](#Introducción)
-2. [Requisitos](#requisitos)
-3. [Instalación](#instalación)
-4. [Uso](#uso)
-5. [Contribución](#contribución)
-6. [Documentación](#documentación)
-7. [Ejemplos](#ejemplos)
-8. [Licencia](#licencia)
-9. [Contacto](#contacto)
+2. [Data](#data)
+3. [Documentación](#Documentación)
+4. [Imagenes](#Imagenes)
+5. [Scripts](#Scripts)
 
 
 ## Introducción
@@ -24,44 +20,18 @@ Además de la atención clínica, el proyecto se enfoca en la promoción de la s
 La aplicación del aprendizaje no supervisado en el ámbito de la salud dental es un campo en constante evolución que ha demostrado ser una herramienta invaluable para mejorar la calidad de los servicios odontológicos y el acceso de la población a ellos. En este artículo, profundizaremos en el proyecto titulado "Población con Acceso a Servicio de Salud Dental en la Clínica Universidad Autónoma de Sinaloa" como un ejemplo destacado de cómo las técnicas de aprendizaje no supervisado pueden revolucionar la prestación de servicios de atención dental.
 Este proyecto ilustra cómo el aprendizaje no supervisado puede tener un impacto significativo en diversos aspectos de la atención y prevención dental, con un enfoque particular en el grupo de la tercera edad, que a menudo se encuentra en una posición desfavorecida en términos de salud bucal. A lo largo de nuestra exploración, analizaremos cómo estas técnicas pueden potenciar la expansión de los servicios odontológicos y promover la salud oral de una manera más eficiente y efectiva.
 
-## Requisitos
+## Data
 
-Enumera cualquier requisito de sistema, dependencia de software o configuración necesaria para utilizar tu proyecto.
-
-## Instalación
-
-Proporciona instrucciones claras y detalladas sobre cómo instalar y configurar tu proyecto. Divide este proceso en pasos concisos si es necesario.
-
-## Uso
-
-Explica cómo utilizar tu proyecto. Proporciona ejemplos de código, comandos o capturas de pantalla para ayudar a los usuarios a entender cómo funciona y cómo pueden aprovecharlo al máximo.
-
-## Contribución
-
-Indica si aceptas contribuciones de otros desarrolladores y cómo pueden contribuir al proyecto. También puedes incluir directrices para colaboradores, como cómo informar errores o solicitar nuevas características.
+En esta sección, enumera cualquier requisito de datos necesarios para el proyecto de la Clínica Universidad Autónoma de Sinaloa. Esto puede incluir datos demográficos de pacientes, registros de tratamiento dental, información sobre personal médico, y cualquier otro conjunto de datos relevante. Proporciona detalles sobre cómo acceder y utilizar estos datos para la investigación y el análisis.
 
 ## Documentación
 
-Si tienes documentación adicional, como manuales de usuario o guías técnicas, enlaza a ella o inclúyela en esta sección.
+La sección de documentación es crucial para el proyecto de la Clínica. Debe proporcionar instrucciones detalladas sobre cómo acceder a la información de salud dental, cómo utilizar herramientas de análisis de datos y cómo interpretar los resultados. Además, incluye pautas sobre cómo documentar adecuadamente los procedimientos y resultados de las investigaciones en el ámbito de la salud dental.
 
-## Ejemplos
+## Imágenes
 
-Proporciona ejemplos concretos de uso del proyecto o de su funcionalidad para ayudar a los usuarios a comprenderlo mejor.
+En el contexto del proyecto de la Clínica, la sección de imágenes puede contener capturas de pantalla o gráficos que ilustren la evolución de los tratamientos dentales, ejemplos de casos de éxito, imágenes de las instalaciones de la clínica, y cualquier otra representación visual que sea relevante para mostrar el progreso y los logros del proyecto.
 
-## Licencia
+## Scripts
 
-Especifica la licencia bajo la cual se distribuye el proyecto. Esto es importante para indicar a otros cómo pueden usar y compartir tu código.
-
-## Contacto
-
-Proporciona información de contacto, como un correo electrónico o un enlace a tu perfil de GitHub, para que las personas puedan ponerse en contacto contigo en caso de preguntas o problemas.
-
-<div align="center">
-  <img src="/Images/Imagen1.png" width="1920" height="400" />
-</div>
-
-
-
-
-
-
+Para el proyecto de la Clínica, esta sección puede indicar cómo otros profesionales de la salud dental pueden contribuir a la investigación y análisis. Proporciona información sobre cómo pueden colaborar en la recopilación y análisis de datos, así como en la mejora de los procesos de atención dental. También destaca cómo los desarrolladores pueden contribuir con scripts y herramientas específicas para el proyecto.
