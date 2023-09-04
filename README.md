@@ -1,14 +1,62 @@
 # MIAD_ANS_ProyectoSaludDental
 
-•	Resumen. Una síntesis de lo hecho hasta el momento. Ésta es una parte critica de un trabajo, de hecho, es a veces lo único que se lee. Es por ello, que es una parte integral del proyecto y en esta primera entrega se espera que ustedes tengan una primera aproximación que irán mejorando con el tiempo 
+## Resumen
 
 El proyecto "Población con Acceso a Servicio de Salud Dental en la Clínica Universidad Autónoma de Sinaloa" tiene como objetivo primordial la mejora del acceso a servicios de salud dental de calidad en la región de Sinaloa. Para lograrlo, se han implementado medidas como la expansión de los servicios dentales disponibles en la Clínica Universidad Autónoma de Sinaloa, que incluye la contratación de personal altamente capacitado y la adquisición de tecnología de vanguardia para garantizar tratamientos efectivos y asequibles. Este esfuerzo busca atender la creciente necesidad de atención dental en la comunidad, proporcionando servicios accesibles y de alta calidad para mejorar la salud bucal de la población.
 
 Además de la atención clínica, el proyecto se enfoca en la promoción de la salud bucal y la educación en la comunidad. Se llevan a cabo campañas de concientización y se brinda información sobre hábitos de higiene oral adecuados, con el propósito de prevenir problemas dentales antes de que se conviertan en afecciones graves. En resumen, este proyecto busca no solo garantizar el acceso a servicios dentales de calidad, sino también promover la importancia de la salud bucal a través de la educación y la prevención en la región de Sinaloa.
 
-•	Introducción. Donde se establece el problema o la pregunta bien definida con una motivación clara para resolverla. 
 
-La aplicación del aprendizaje no supervisado en el ámbito de la salud dental es un campo en constante evolución que ha demostrado ser una herramienta invaluable para mejorar la calidad de los servicios odontológicos y el acceso de la población a ellos. En este artículo, exploraremos en detalle el proyecto "Población con Acceso a Servicio de Salud Dental en la Clínica Universidad Autónoma de Sinaloa" como un ejemplo destacado de cómo las técnicas de aprendizaje no supervisado pueden transformar la prestación de servicios de atención dental. Desde la expansión de servicios hasta la promoción de la salud bucal, este proyecto ilustra cómo el aprendizaje no supervisado puede optimizar la atención y la prevención en un campo crucial para el bienestar de la comunidad. A medida que avanzamos en este artículo, examinaremos cómo estas innovaciones están remodelando el panorama de la salud dental en Sinaloa y, potencialmente, en otras regiones.
+## Tabla de Contenidos
+
+1. [Introducción](#Introducción)
+2. [Requisitos](#requisitos)
+3. [Instalación](#instalación)
+4. [Uso](#uso)
+5. [Contribución](#contribución)
+6. [Documentación](#documentación)
+7. [Ejemplos](#ejemplos)
+8. [Licencia](#licencia)
+9. [Contacto](#contacto)
+
+
+## Introducción
+
+Este proyecto utiliza técnicas de aprendizaje no supervisado para mejorar la atención dental y la prevención, con un énfasis en la población de la tercera edad. Explora cómo estas técnicas pueden expandir los servicios odontológicos y promover la salud oral de manera eficiente. También identifica causas subyacentes de desafíos en la salud oral de la tercera edad y propone soluciones.
+
+## Requisitos
+
+Enumera cualquier requisito de sistema, dependencia de software o configuración necesaria para utilizar tu proyecto.
+
+## Instalación
+
+Proporciona instrucciones claras y detalladas sobre cómo instalar y configurar tu proyecto. Divide este proceso en pasos concisos si es necesario.
+
+## Uso
+
+Explica cómo utilizar tu proyecto. Proporciona ejemplos de código, comandos o capturas de pantalla para ayudar a los usuarios a entender cómo funciona y cómo pueden aprovecharlo al máximo.
+
+## Contribución
+
+Indica si aceptas contribuciones de otros desarrolladores y cómo pueden contribuir al proyecto. También puedes incluir directrices para colaboradores, como cómo informar errores o solicitar nuevas características.
+
+## Documentación
+
+Si tienes documentación adicional, como manuales de usuario o guías técnicas, enlaza a ella o inclúyela en esta sección.
+
+## Ejemplos
+
+Proporciona ejemplos concretos de uso del proyecto o de su funcionalidad para ayudar a los usuarios a comprenderlo mejor.
+
+## Licencia
+
+Especifica la licencia bajo la cual se distribuye el proyecto. Esto es importante para indicar a otros cómo pueden usar y compartir tu código.
+
+## Contacto
+
+Proporciona información de contacto, como un correo electrónico o un enlace a tu perfil de GitHub, para que las personas puedan ponerse en contacto contigo en caso de preguntas o problemas.
+
+
 
 
 
